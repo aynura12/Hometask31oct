@@ -1,0 +1,15 @@
+C:\Users\Aynura\Desktop\Folder3\hometask.31oct\hometask.31oct\bin\Debug\net6.0\hometask.31oct.exe
+C:\Users\Aynura\Desktop\Folder3\hometask.31oct\hometask.31oct\bin\Debug\net6.0\hometask.31oct.deps.json
+C:\Users\Aynura\Desktop\Folder3\hometask.31oct\hometask.31oct\bin\Debug\net6.0\hometask.31oct.runtimeconfig.json
+C:\Users\Aynura\Desktop\Folder3\hometask.31oct\hometask.31oct\bin\Debug\net6.0\hometask.31oct.dll
+C:\Users\Aynura\Desktop\Folder3\hometask.31oct\hometask.31oct\bin\Debug\net6.0\hometask.31oct.pdb
+C:\Users\Aynura\Desktop\Folder3\hometask.31oct\hometask.31oct\obj\Debug\net6.0\hometask.31oct.csproj.AssemblyReference.cache
+C:\Users\Aynura\Desktop\Folder3\hometask.31oct\hometask.31oct\obj\Debug\net6.0\hometask.31oct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aynura\Desktop\Folder3\hometask.31oct\hometask.31oct\obj\Debug\net6.0\hometask.31oct.AssemblyInfoInputs.cache
+C:\Users\Aynura\Desktop\Folder3\hometask.31oct\hometask.31oct\obj\Debug\net6.0\hometask.31oct.AssemblyInfo.cs
+C:\Users\Aynura\Desktop\Folder3\hometask.31oct\hometask.31oct\obj\Debug\net6.0\hometask.31oct.csproj.CoreCompileInputs.cache
+C:\Users\Aynura\Desktop\Folder3\hometask.31oct\hometask.31oct\obj\Debug\net6.0\hometask.31oct.dll
+C:\Users\Aynura\Desktop\Folder3\hometask.31oct\hometask.31oct\obj\Debug\net6.0\refint\hometask.31oct.dll
+C:\Users\Aynura\Desktop\Folder3\hometask.31oct\hometask.31oct\obj\Debug\net6.0\hometask.31oct.pdb
+C:\Users\Aynura\Desktop\Folder3\hometask.31oct\hometask.31oct\obj\Debug\net6.0\hometask.31oct.genruntimeconfig.cache
+C:\Users\Aynura\Desktop\Folder3\hometask.31oct\hometask.31oct\obj\Debug\net6.0\ref\hometask.31oct.dll
